@@ -1,4 +1,4 @@
 # KneatTestScenario
-Please switch off cookies in your Chrome
-Test is currently written for Chrome only.
-
+* Before running the scripts please swicthc off your cookies in Chrome
+* Tests are only supported in Chrome
+* Tests are writtrn in Sepcflow and Selenium
